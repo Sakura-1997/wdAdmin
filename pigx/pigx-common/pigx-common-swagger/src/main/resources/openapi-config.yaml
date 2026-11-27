@@ -1,0 +1,6 @@
+# swagger 配置
+swagger:
+  enabled: true
+  title: PigX Swagger API
+  token-url: /auth/oauth2/token
+  scope: server
